@@ -1,0 +1,35 @@
+Token name: Digcoin
+
+Token ticker: DIGX
+
+Token decimals: 18
+
+Multisig wallet address: 0xf5028471dddB033b625C1eDeaFc7c56f01d86Cf8
+
+*****************************
+
+Crowdsale rate: 35405903
+
+Crowdsale start time: 2018-03-05T14:30 (GMT - 8)
+
+Crowdsale end time: 2018-03-05T16:00 (GMT - 8)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Null finalize agent contract name: NullFinalizeAgentExt
+
+Null finalize agent contract address for Preicodevbountyminingstaking: 0x6142f6295e31084A85ec0EdEDcD65758f0C5c752
+
+*****************************
+
+****Null Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"inputs":[{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Null Finalize agent contract ABI encoded constructor arguments for Preicodevbountyminingstaking:**** 
+
+000000000000000000000000a2c5b18143b12fb4a0059e26a341a68340adbc57
